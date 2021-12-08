@@ -1,0 +1,133 @@
+{
+    "metadata": {
+        "link": "https://www.halfbakedharvest.com/healthy-dark-chocolate-chunk-oatmeal-cookie-bars-idiot-proof/"
+    },
+    "ingredients": [
+        {
+            "IngredientGroup": null,
+            "Ingredient": "old fashioned oats",
+            "Amount": {
+                "cups": 2.5,
+                "tsp": null,
+                "tbsp": null,
+                "mass": null
+            }
+        },
+        {
+            "IngredientGroup": null,
+            "Ingredient": "all-purpose flour",
+            "Amount": {
+                "cups": 1.0,
+                "tsp": null,
+                "tbsp": null,
+                "mass": null
+            }
+        },
+        {
+            "IngredientGroup": null,
+            "Ingredient": "whole-wheat flour",
+            "Amount": {
+                "cups": 1.0,
+                "tsp": null,
+                "tbsp": null,
+                "mass": null
+            }
+        },
+        {
+            "IngredientGroup": null,
+            "Ingredient": "light brown sugar",
+            "Amount": {
+                "cups": [0.5, 0.75],
+                "tsp": null,
+                "tbsp": null,
+                "mass": null
+            }
+        },
+        {
+            "IngredientGroup": null,
+            "Ingredient": "granulated sugar",
+            "Amount": {
+                "cups": [0.25, 0.5],
+                "tsp": null,
+                "tbsp": null,
+                "mass": null
+            }
+        },
+        {
+            "IngredientGroup": null,
+            "Ingredient": "baking soda",
+            "Amount": {
+                "cups": null,
+                "tsp": 1.0,
+                "tbsp": null,
+                "mass": null
+            }
+        },
+        {
+            "IngredientGroup": null,
+            "Ingredient": "kosher salt",
+            "Amount": {
+                "cups": null,
+                "tsp": 0.5,
+                "tbsp": null,
+                "mass": null
+            }
+        },
+        {
+            "IngredientGroup": null,
+            "Ingredient": "melted coconut oil",
+            "Amount": {
+                "cups": 1.0,
+                "tsp": null,
+                "tbsp": null,
+                "mass": null
+            }
+        },
+        {
+            "IngredientGroup": null,
+            "Ingredient": "eggs",
+            "Amount": {
+                "count": 2,
+                "cups": null,
+                "tsp": null,
+                "tbsp": null,
+                "mass": null
+            }
+        },
+        {
+            "IngredientGroup": null,
+            "Ingredient": "vanilla extract",
+            "Amount": {
+                "cups": null,
+                "tsp": null,
+                "tbsp": 1.0,
+                "mass": null
+            }
+        },
+        {
+            "IngredientGroup": null,
+            "Ingredient": "dark chocolate chunks",
+            "Amount": {
+                "cups": 1.5,
+                "tsp": null,
+                "tbsp": null,
+                "mass": null
+            }
+        }
+    ],
+    "instructions": [
+        {
+            "InstructionGroup": null,
+            "instruction": "Preheat the oven to 350 degrees F. Grease a 9x13 inch baking dish with butter or line with parchment paper."
+        },
+        {
+            "InstructionGroup": null,
+            "instruction": "In a large mixing bowl or the bowl of a stand mixer, mix the oatmeal, flour, whole wheat flour brown sugar, granulated sugar, baking soda, salt, coconut oil, eggs, and vanilla. Beat until the dough is moist and all the ingredients are combined. The dough will be crumbly. Mix in the chocolate chunks."
+        },
+        {
+            "InstructionGroup": null,
+            "instruction": "Press the dough into the prepared baking dish. It will seem crumbly. Transfer to the oven and bake 18-20 minutes or until the edges are set and the bars are golden. Sprinkle with flaky salt (if desired). Let cool and then cut into bars."
+        }
+    ]
+
+}
